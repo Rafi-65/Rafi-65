@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 Hey there!<br><br>I'm a student passionate about **AI**, **data analysis**, and **low-level programming**.  <br>I love building things that *think*, especially when AI meets hardware.<br><br>### 🎯 Focus Areas<br>- Machine learning & automation  <br>- Data-driven analysis  <br>- Robotics powered by Raspberry Pi  <br>- Continuous learning in AI & systems programming  <br><br>Feel free to explore my projects!
+## 👋 Hey there!<br><br>I'm a student passionate about **AI**, **data analysis**, and **low-level programming**.  <br>I love building things that *think*, especially when AI meets hardware.<br><br> 🎯 Focus Areas<br>- Machine learning & automation  <br>- Data-driven analysis  <br>- Robotics powered by Raspberry Pi  <br>- Continuous learning in AI & systems programming  <br><br>Feel free to explore my projects!
 
 
 ## 🌐 Socials:
